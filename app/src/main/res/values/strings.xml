@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movie">Movie</string>
+    <string name="poster">Poster</string>
+    <string name="setting">Setting</string>
+    <string name="season">Season</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="message_online" translatable="false">Halaman ini di tampilkan secara offline dari local data</string>
+    <string name="view_online" translatable="false">Lihat Versi Online</string>
+    <string name="favorite">Favorite</string>
+</resources>
